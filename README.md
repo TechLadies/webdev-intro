@@ -28,3 +28,19 @@ Although this has been scheduled to fit into the span of a full-day workshop, de
 - [HTML & CSS Is Hard (But it doesn’t have to be)](https://internetingishard.com/html-and-css/)
 
 - [Guess the Number repository](https://github.com/TechLadies/guess-the-number-sinatra) (used for part 2 of the workshop)
+
+## Deploying your website on GitHub Pages
+
+*This guide assumes you have a basic understanding of Git, as well as what GitHub is for.*
+
+1. Go to the repository for your project on GitHub.
+2. Click on *Settings*.
+    ![](https://www.chenhuijing.com/filerepo/tl-workshops/gh-pages1.jpg)
+3. Scroll down to the section called *GitHub Pages*, and select the branch you want to deploy.
+    ![](https://www.chenhuijing.com/filerepo/tl-workshops/gh-pages2.jpg)
+4. Click *Save*.
+    ![](https://www.chenhuijing.com/filerepo/tl-workshops/gh-pages3.jpg)
+5. You should see a notification across the top of the page.
+    ![](https://www.chenhuijing.com/filerepo/tl-workshops/gh-pages4.jpg)
+6. Scroll back down to the *GitHub Pages* section to see the URL that allows you to access your website.
+    ![](https://www.chenhuijing.com/filerepo/tl-workshops/gh-pages5.jpg)
