@@ -40,9 +40,9 @@ Although this has been scheduled to fit into the span of a full-day workshop, de
     If you need to move your files out into the *root* folder, make sure all other files that reference `index.html` are still in the same hierarchy as before.
 3. Click on *Settings* on the top right corner of your repo page.
     ![](https://www.chenhuijing.com/filerepo/tl-workshops/gh-pages1.jpg)
-4. Scroll down to the section called *GitHub Pages*, and select the branch you want to deploy (usually Master, if you've attended th workshop!). 
+4. Scroll down to the section called *GitHub Pages* and select the branch you want to deploy (usually Master). 
     ![](https://www.chenhuijing.com/filerepo/tl-workshops/gh-pages2.jpg)
-5. Click the *Save* button just beside it. 
+5. Click the *Save* button just beside it, and wait for it to load!
     ![](https://www.chenhuijing.com/filerepo/tl-workshops/gh-pages3.jpg)
 6. You should see a notification across the top of the page.
     ![](https://www.chenhuijing.com/filerepo/tl-workshops/gh-pages4.jpg)
