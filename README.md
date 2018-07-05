@@ -34,14 +34,17 @@ Although this has been scheduled to fit into the span of a full-day workshop, de
 *This guide assumes you have a basic understanding of Git, as well as what GitHub is for.*
 
 1. Go to the repository for your project on GitHub.
-2. Check that the `index.html` is in the root of your project folder, and all other files that reference `index.html` need to be in the same hierarchy as before if you needed to move your files out into the *root* folder.
-2. Click on *Settings*.
+2. Check that the `index.html` is in the root of your project folder. This means that your `index.html` is not in any sub-folders and should be viewable like below. 
+    ![](http://oi67.tinypic.com/2nsx6bt.jpg)
+
+    If you need to move your files out into the *root* folder, make sure all other files that reference `index.html` are still in the same hierarchy as before.
+3. Click on *Settings*.
     ![](https://www.chenhuijing.com/filerepo/tl-workshops/gh-pages1.jpg)
-3. Scroll down to the section called *GitHub Pages*, and select the branch you want to deploy.
+4. Scroll down to the section called *GitHub Pages*, and select the branch you want to deploy.
     ![](https://www.chenhuijing.com/filerepo/tl-workshops/gh-pages2.jpg)
-4. Click *Save*.
+5. Click *Save*.
     ![](https://www.chenhuijing.com/filerepo/tl-workshops/gh-pages3.jpg)
-5. You should see a notification across the top of the page.
+6. You should see a notification across the top of the page.
     ![](https://www.chenhuijing.com/filerepo/tl-workshops/gh-pages4.jpg)
-6. Scroll back down to the *GitHub Pages* section to see the URL that allows you to access your website.
+7. Scroll back down to the *GitHub Pages* section to see the URL that allows you to access your website.
     ![](https://www.chenhuijing.com/filerepo/tl-workshops/gh-pages5.jpg)
