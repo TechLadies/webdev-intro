@@ -34,7 +34,9 @@ Although this has been scheduled to fit into the span of a full-day workshop, de
 *This guide assumes you have a basic understanding of Git, as well as what GitHub is for.*
 
 1. Go to the repository for your project on GitHub.
-2. Check that the `index.html` is in the root of your project folder, and all other files that reference `index.html` need to be in the same hierarchy as before if you needed to move your files out into the *root* folder.
+2. Check that the `index.html` is not in any folders (like the image below). If there are any links to images in your `index.html` file, check that you are referring to their file path correctly. (Please ask in the TechLadies facebook group if this step confuses you)
+    
+    ![Folder structure](https://www.chenhuijing.com/filerepo/tl-workshops/gh-pages6.jpg)
 2. Click on *Settings*.
     
     ![Selecting Settings](https://www.chenhuijing.com/filerepo/tl-workshops/gh-pages1.jpg)
